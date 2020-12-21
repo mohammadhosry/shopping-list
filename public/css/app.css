@@ -1,0 +1,19 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-image: linear-gradient(90deg, rgba(0,229,145,1), rgba(47,239,188,1));
+    padding: 15px;
+    color: #ffffff;
+}
+
+nav span {
+    font-size: 2em;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 120px;
+}
